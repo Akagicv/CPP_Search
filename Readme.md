@@ -52,7 +52,9 @@ php -m | grep curl
 
 接入koishi的anime-convention-lizard(或2)插件
 输入该PHP部署的地址
+
 如果你只是为了漫展查询插件能正常使用——可以直接填写下面地址
+
 本人搭建的接口地址： https://api.mihoyo.su/manzhan.php
 
 
@@ -209,4 +211,5 @@ curl "https://your-domain.com/CPP_Search.php?msg=上海"
 
 
 ⭐ 如果这个项目对你有帮助，欢迎给个 Star！
+
 
