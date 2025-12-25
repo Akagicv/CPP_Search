@@ -4,8 +4,10 @@
 
 # 为什么制作这个？
 
-因为以前用的"https://www.hhlqilongzhu.cn/api/manzhan_sou.php"API已经在Koishi插件内无法使用，且
+因为以前用的API已经在Koishi插件内无法使用，且：
+
 1.没有展会状态（进行中/倒计时/已取消）功能
+
 2.不按照时间排序
 
 遂自己抓包写了此项目用于替代旧的API
@@ -204,5 +206,6 @@ curl "https://your-domain.com/CPP_Search.php?msg=上海"
 - Koishi插件（另一位大佬的改版）：[anime-convention-lizard2](https://github.com/yoyokity/anime-convention-lizard2)
 
 ---
+
 
 ⭐ 如果这个项目对你有帮助，欢迎给个 Star！
