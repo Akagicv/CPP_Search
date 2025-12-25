@@ -1,6 +1,6 @@
 # 漫展查询 API
 
-> 基于使用PHP模拟搜索"无差别同人站（CPP）"数据的漫展查询API
+> 基于PHP模拟请求"无差别同人站（CPP）"数据的漫展查询API
 
 # 为什么制作这个？
 
@@ -209,3 +209,4 @@ curl "https://your-domain.com/CPP_Search.php?msg=上海"
 
 
 ⭐ 如果这个项目对你有帮助，欢迎给个 Star！
+
